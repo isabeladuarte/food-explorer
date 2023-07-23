@@ -28,7 +28,7 @@ $ https://github.com/isabeladuarte/food-explorer-front
 ```
 ___
 
-#### 🚧 Executando o BackEnd
+#### 🚧 Executando o backend
 ```bash
 # No BackEnd insira uma porta e um secret no arquivo .env vazio
   AUTH_SECRET=
@@ -42,7 +42,7 @@ $ npm run dev
 ```
 ___
 
-#### 💻 Executando o FrontEnd
+#### 💻 Executando o frontend
 ```bash
 
 # Instale as dependências necessárias:
